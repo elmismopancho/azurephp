@@ -46,6 +46,8 @@ $items = loadAll();
             <?php else: ?>
             <h3>Items table is empty</h3>
             <?php endif; ?>
+            <hr />
+            <a href="..">Index</a>
         </div>
     </body>
 </html>

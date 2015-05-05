@@ -19,6 +19,7 @@
             </div>
             <ul>
                 <li><a href="sql/index.php">Relational Databade CRUD</a></li>
+                <li><a href="table/index.php">Table Storage System</a></li>
             </ul>
         </div>
     </body>
